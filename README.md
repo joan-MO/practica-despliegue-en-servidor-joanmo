@@ -1,6 +1,6 @@
 # Práctica despliegue en servidor
 
-## Nodepop front
+## Nodepop frontend
 url front: 35.181.28.133
 
 ## Nodepop backend
